@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<!--
 With over 20 years of experience in design and development, specializing in UI/UX design and front-end code for web and mobile interfaces, I excel at creating visually stunning and user-friendly digital experiences. My main focus is on delivering pixel-perfect designs that seamlessly translate across various devices. Drawing from a strong background in art direction and print design, I prioritize attention to detail to ensure that every project aligns with the brand's identity and business goals.
 
 I have extensive expertise in mobile UI design for both iOS and Android platforms, allowing me to navigate the intricacies and challenges of creating intuitive interfaces for smaller screens. As a result of my leadership positions in both the Retail and Telecommunications industries, I have successfully managed large-scale projects, collaborating seamlessly with cross-functional teams. By leveraging my understanding of consumer behavior, gained through my experience in the retail sector, I make informed and data-driven design decisions that enhance user experiences.
 
 To stay at the forefront of design trends and technologies, I continually update my skills, ensuring that I deliver cutting-edge mobile UI designs. With a deep passion for innovation and a commitment to user-centered design principles, my focus remains on exceeding user expectations and creating interfaces that truly resonate with their needs.
+
+<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
